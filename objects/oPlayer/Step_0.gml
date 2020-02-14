@@ -1,5 +1,2 @@
-/// @description 
-getInput();
-calculateMovement();
-move();
-animate();
+/// @description execute the state
+script_execute(statesArray[state]);
