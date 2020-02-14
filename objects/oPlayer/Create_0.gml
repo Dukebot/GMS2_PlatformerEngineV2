@@ -11,3 +11,8 @@ Friction = 0.12;
 
 //facing direction
 facing = 1;
+
+left = 0;
+right = 0;
+up = 0;
+down = 0;
