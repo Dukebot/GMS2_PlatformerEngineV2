@@ -3,12 +3,16 @@
 //Speeds
 speedX = 0;
 speedY = 0;
+
 speedDecimalX = 0;
 speedDecimalY = 0;
+
 maxSpeedX = 2;
 walkSpeed = 1.5;
+
 jumpSpeed = -5;
 jumpDampner = 2.5;
+
 jumpsInitial = 2;
 jumps = jumpsInitial;
 

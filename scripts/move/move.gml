@@ -1,6 +1,7 @@
 ///@description check collisions and apply movement
 
-	//We need an integer value for collision code:
+
+//We need an integer value for collision code:
 
 //apply carried over decimals
 speedX += speedDecimalX;
@@ -12,7 +13,8 @@ speedDecimalY = speedY - (floor(abs(speedY)) * sign(speedY));
 speedX -= speedDecimalX;
 speedY -= speedDecimalY;
 
-	//horizontal collision:
+
+//horizontal collision:
 
 //Determine which side to test
 var side = getFacingSideX(speedX); 
@@ -32,7 +34,8 @@ if (t1 != VOID or t2 != VOID) {
 	speedX = 0;
 }
 
-	//vertical collision:
+
+//vertical collision:
 
 //Determine which side to test
 var side = getFacingSideY(speedY); 
@@ -52,7 +55,8 @@ if (t1 != VOID or t2 != VOID) {
 	speedY = 0;
 }
 
-	//Aply Movement
+
+//Aply Movement
 	
 x += speedX;
 y += speedY;

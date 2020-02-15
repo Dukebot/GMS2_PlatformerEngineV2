@@ -8,7 +8,7 @@ show_debug_message("attack state");
 //if (image_number >= image_number - sprite_get_speed(sprite_index)/room_speed) {
 if (animationEnded()) {
 	if (not onGround()) state = states.JUMP;
-	else if (speedX != 0) state = states.WALK 
+	else if (speedX != 0) state = states.WALK;
 	else state = states.IDLE;
 }
 
