@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1dd0f885-92f3-40b6-b1b6-0064885c97e5",
+            "Value": {
+                "id": "0028fa56-62f9-4287-bed8-c4850a3e81cd",
+                "resourcePath": "views\\1dd0f885-92f3-40b6-b1b6-0064885c97e5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "26964d05-5cf8-4257-a831-1f33681c6081",
             "Value": {
                 "id": "84535c61-5013-43fe-9501-a58a6f75710b",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "7aed7225-b87f-41b1-b823-c045bd53d4ff",
+            "Value": {
+                "id": "e0e8fa85-2e78-49a0-9872-aa1c022fe0e1",
+                "resourcePath": "scripts\\animationHitFrame\\animationHitFrame.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7f0fd2a7-7a3c-40e7-904d-7b5fefea5f5f",
             "Value": {
                 "id": "59577182-0852-4127-ace2-9ed31bbb1005",
@@ -186,7 +202,7 @@
             "Key": "8ec5b649-19a1-4700-86df-63f91594ce40",
             "Value": {
                 "id": "06575991-45da-4dd9-92f5-5561c04e6510",
-                "resourcePath": "sprites\\sPlayerWttackWalk\\sPlayerWttackWalk.yy",
+                "resourcePath": "sprites\\sPlayerAttackWalk\\sPlayerAttackWalk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -351,6 +367,14 @@
             }
         },
         {
+            "Key": "d3562581-a43b-4e16-ae2d-4cf50ee412e6",
+            "Value": {
+                "id": "ce3b3d87-a48e-41ee-b896-640651bfe8d8",
+                "resourcePath": "scripts\\animationEnded\\animationEnded.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d4a42ca7-70a0-410d-8249-e58af8592d32",
             "Value": {
                 "id": "96644628-a8f0-49a4-8005-25c2b1f425d6",
@@ -423,6 +447,14 @@
             }
         },
         {
+            "Key": "f918e9a9-b39b-4360-9e7e-9e9b5f38bb68",
+            "Value": {
+                "id": "dff439a3-d14d-4d54-bcde-1097b499dc72",
+                "resourcePath": "scripts\\script12\\script12.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fb03f76d-ad3e-4c70-90e2-7f6bcd53ea69",
             "Value": {
                 "id": "97b304e7-3fa6-4de1-ab24-28184e69dc25",
@@ -443,7 +475,10 @@
         "9591211f-1b4a-44ca-85b4-917fa6939b8b",
         "98147306-02ec-4813-8789-b0d3a1a515be",
         "a77b1c16-5adb-4160-84ae-7836c257bff2",
-        "bc4f8b54-6ee2-4b7b-91e5-2e0ab217cb16"
+        "bc4f8b54-6ee2-4b7b-91e5-2e0ab217cb16",
+        "f918e9a9-b39b-4360-9e7e-9e9b5f38bb68",
+        "7aed7225-b87f-41b1-b823-c045bd53d4ff",
+        "d3562581-a43b-4e16-ae2d-4cf50ee412e6"
     ],
     "tutorial": ""
 }

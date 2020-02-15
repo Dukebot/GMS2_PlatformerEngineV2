@@ -2,7 +2,7 @@
     "id": "8ec5b649-19a1-4700-86df-63f91594ce40",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sPlayerWttackWalk",
+    "name": "sPlayerAttackWalk",
     "For3D": false,
     "HTile": false,
     "VTile": false,
