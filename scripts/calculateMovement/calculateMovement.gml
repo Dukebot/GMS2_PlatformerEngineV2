@@ -1,4 +1,6 @@
+///@description calculate movement
 speedX += (right - left)*walkSpeed;
+speedY += global.Gravity;
 
 //Friction
 speedX = lerp(speedX, 0, Friction);

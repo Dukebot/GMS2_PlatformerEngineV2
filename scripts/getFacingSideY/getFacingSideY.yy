@@ -1,8 +1,8 @@
 {
-    "id": "8e8037c9-731d-4d2b-803c-af8d7af7e791",
+    "id": "ba521b31-d8d0-49ac-88bd-92105e0e81b0",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "getFacingSide",
+    "name": "getFacingSideY",
     "IsCompatibility": false,
     "IsDnD": false
 }
