@@ -2,8 +2,14 @@
 sprite_index = spritesArray[state];
 image_xscale = facing;
 
-/*if (speedX != 0) {
-	sprite_index = sPlayerWalk;
-} else {
-	sprite_index = sPlayerIdle;	
-}*/
+if (state == states.JUMP) {
+	if (speedY < 0) image_index = 0;
+	else image_index = 1;
+}
+else if (state == states.ATTACK) {
+	if (not onGround()) sprite_index = sPlayerAirAttack;
+	else {
+		if (speedX != 0) sprite_index = sPlayerAttackWalk;
+		else sprite_index = sPlayerAttack;
+	}
+}

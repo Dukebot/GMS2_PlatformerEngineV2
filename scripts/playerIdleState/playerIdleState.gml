@@ -10,5 +10,10 @@ if (attack) {
 	image_index = 0;
 }
 
+if (jump) {
+	state = states.JUMP;
+	speedY = jumpSpeed;
+}
+
 move();
 animate();

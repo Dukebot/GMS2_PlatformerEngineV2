@@ -7,6 +7,7 @@ speedDecimalX = 0;
 speedDecimalY = 0;
 maxSpeedX = 2;
 walkSpeed = 1.5;
+jumpSpeed = -5;
 
 //Friction
 Friction = 0.12;
@@ -20,6 +21,7 @@ right = 0;
 up = 0;
 down = 0;
 attack = 0;
+jump = 0;
 
 //states
 enum states {

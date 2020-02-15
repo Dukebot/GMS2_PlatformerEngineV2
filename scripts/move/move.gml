@@ -1,9 +1,11 @@
 ///@description check collisions and apply movement
 
-//We need an integer value for collision code:
+	//We need an integer value for collision code:
+
 //apply carried over decimals
 speedX += speedDecimalX;
 speedY += speedDecimalY;
+
 //save and substract some decimals
 speedDecimalX = speedX - (floor(abs(speedX)) * sign(speedX));
 speedDecimalY = speedY - (floor(abs(speedY)) * sign(speedY));
@@ -50,12 +52,7 @@ if (t1 != VOID or t2 != VOID) {
 	speedY = 0;
 }
 
-
-
-
-//vertical collision
-
-
-
+	//Aply Movement
+	
 x += speedX;
 y += speedY;
