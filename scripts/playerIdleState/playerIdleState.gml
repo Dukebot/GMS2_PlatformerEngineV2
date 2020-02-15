@@ -11,8 +11,7 @@ if (attack) {
 }
 
 if (jump) {
-	state = states.JUMP;
-	speedY = jumpSpeed;
+	jumped();
 }
 
 if (block) {

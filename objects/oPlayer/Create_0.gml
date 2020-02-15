@@ -8,6 +8,9 @@ speedDecimalY = 0;
 maxSpeedX = 2;
 walkSpeed = 1.5;
 jumpSpeed = -5;
+jumpDampner = 2.5;
+jumpsInitial = 2;
+jumps = jumpsInitial;
 
 //Friction
 Friction = 0.12;
@@ -22,6 +25,7 @@ up = 0;
 down = 0;
 attack = 0;
 jump = 0;
+jumpHeld = 0;
 block = 0;
 
 //states

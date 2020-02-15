@@ -13,5 +13,15 @@ if (attack) {
 	image_index = 0;
 }
 
+//enable double jumps
+if (jump) {
+	jumped();	
+}
+
+//enable smaller jumps
+if (speedY < 0 and not jumpHeld) {
+	speedY = max(speedY, jumpSpeed/jumpDampner);
+}
+
 move();
 animate();
