@@ -2,12 +2,21 @@ getInput();
 calculateMovement();
 
 //check state
-if (speedX == 0) state = states.IDLE;
-
 if (attack) {
 	show_debug_message("attack pressed");
 	state = states.ATTACK;
 	image_index = 0;
+}
+
+if (block) {
+	speedX = 0;
+} else {
+	if (speedX != 0) {
+		if (not onGround()) state = states.JUMP;
+		else state = states.WALK;
+	} else {
+		state = states.IDLE;	
+	}
 }
 
 if (jump) {
@@ -15,10 +24,7 @@ if (jump) {
 	speedY = jumpSpeed;
 }
 
-if (block) {
-	state = states.BLOCK;
-	speedX = 0;
-}
+
 
 move();
 animate();

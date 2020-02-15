@@ -15,5 +15,10 @@ if (jump) {
 	speedY = jumpSpeed;
 }
 
+if (block) {
+	state = states.BLOCK;
+	speedX = 0;
+}
+
 move();
 animate();

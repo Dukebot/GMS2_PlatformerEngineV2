@@ -5,3 +5,4 @@ up = keyboard_check(vk_up);
 down = keyboard_check(vk_down);
 attack = keyboard_check_pressed(vk_enter);
 jump = keyboard_check_pressed(vk_space);
+block = keyboard_check(ord("Z"));

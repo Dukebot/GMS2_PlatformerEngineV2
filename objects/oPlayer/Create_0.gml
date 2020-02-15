@@ -22,6 +22,7 @@ up = 0;
 down = 0;
 attack = 0;
 jump = 0;
+block = 0;
 
 //states
 enum states {
