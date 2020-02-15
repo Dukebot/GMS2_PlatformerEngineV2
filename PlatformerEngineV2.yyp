@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "020ee3c2-af5c-4492-8400-915f74bfa86e",
+            "Value": {
+                "id": "50f1eaf0-7f44-4330-993b-20f578407db0",
+                "resourcePath": "scripts\\macros\\macros.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0bc6aedb-675b-4f43-8f71-11c910aa6612",
             "Value": {
                 "id": "7d437ecc-89c0-4f44-aa26-a3b0702add0c",
@@ -68,6 +76,14 @@
                 "id": "d08e4846-7625-4624-9d48-5d5bd3cbe193",
                 "resourcePath": "views\\28fa8437-6dd8-4e2c-9fe2-e5fb29649d76.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2ef5355d-7f35-4af3-bb09-05afc57d680a",
+            "Value": {
+                "id": "7efea72e-ac83-4771-9c02-ef657bcf2855",
+                "resourcePath": "tilesets\\tCollisions\\tCollisions.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -135,6 +151,14 @@
             }
         },
         {
+            "Key": "5deca44f-e6c1-4f7b-9eef-f01f69f6aeac",
+            "Value": {
+                "id": "e808d3ba-d79c-457e-9b11-e8acfce735dc",
+                "resourcePath": "objects\\oGame\\oGame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5e1e5248-3f8d-41e8-a39e-7a30dd6c5b86",
             "Value": {
                 "id": "fb3256e7-e27a-4fa5-ad74-d43a026b34cf",
@@ -199,6 +223,14 @@
             }
         },
         {
+            "Key": "8e8037c9-731d-4d2b-803c-af8d7af7e791",
+            "Value": {
+                "id": "44a21266-352d-424e-869e-05475affa33c",
+                "resourcePath": "scripts\\getFacingSide\\getFacingSide.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8ec5b649-19a1-4700-86df-63f91594ce40",
             "Value": {
                 "id": "06575991-45da-4dd9-92f5-5561c04e6510",
@@ -252,6 +284,14 @@
                 "id": "6c766883-55a5-4265-8ff1-039bbcfb7878",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a5666b13-da66-4f88-a2f1-427fdf7de708",
+            "Value": {
+                "id": "333e73ef-ce5e-4570-a98e-f2e39cdf06f8",
+                "resourcePath": "views\\a5666b13-da66-4f88-a2f1-427fdf7de708.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -407,6 +447,14 @@
             }
         },
         {
+            "Key": "e75799bf-99cd-4472-8da3-fb5548a7eec4",
+            "Value": {
+                "id": "da629e82-110e-4534-8dae-6bce21b7c10d",
+                "resourcePath": "sprites\\sTileCollisions\\sTileCollisions.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e95266c5-04b5-479f-8b10-eca0e34f2dcf",
             "Value": {
                 "id": "9d628fdf-e237-4ae6-9822-6b3eef5846ec",
@@ -469,6 +517,7 @@
         "d85ae6e7-51ff-41e6-a6fe-77f2bb665e9a",
         "13487eb7-298b-43d8-b611-4d3da2bca32e",
         "0bc6aedb-675b-4f43-8f71-11c910aa6612",
+        "020ee3c2-af5c-4492-8400-915f74bfa86e",
         "bf7d72ff-8dbe-456d-98fe-a48d6a1814d7",
         "f5910a02-9040-477b-b378-7fe893b278d0",
         "44b563ce-21bf-4707-8877-4ccafe90cf87",
@@ -478,7 +527,8 @@
         "bc4f8b54-6ee2-4b7b-91e5-2e0ab217cb16",
         "f918e9a9-b39b-4360-9e7e-9e9b5f38bb68",
         "7aed7225-b87f-41b1-b823-c045bd53d4ff",
-        "d3562581-a43b-4e16-ae2d-4cf50ee412e6"
+        "d3562581-a43b-4e16-ae2d-4cf50ee412e6",
+        "8e8037c9-731d-4d2b-803c-af8d7af7e791"
     ],
     "tutorial": ""
 }
