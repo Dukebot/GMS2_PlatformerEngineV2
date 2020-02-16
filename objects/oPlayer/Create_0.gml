@@ -32,6 +32,9 @@ jump = 0;
 jumpHeld = 0;
 block = 0;
 
+//camera
+oCamera.follow = oPlayer;
+
 //states
 enum states {
 	IDLE, WALK, JUMP, ATTACK, BLOCK, CROUCH, CROUCH_BLOCK

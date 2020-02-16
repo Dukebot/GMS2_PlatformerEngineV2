@@ -143,6 +143,22 @@
             }
         },
         {
+            "Key": "4e434dd9-97a2-4b97-b4c1-d15c86f4fd19",
+            "Value": {
+                "id": "a864187a-9830-4c45-b9d4-620d5ab4fa39",
+                "resourcePath": "objects\\oCamera\\oCamera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4f3e87cc-c741-4799-a939-3e82634e78dd",
+            "Value": {
+                "id": "ab7a928b-6a3f-4bb2-a878-8996859fd24b",
+                "resourcePath": "rooms\\rmInit\\rmInit.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "50c79c91-20a7-4a00-a022-182743199108",
             "Value": {
                 "id": "6a37fbfa-eef6-4432-b700-4ea9f5c9214f",
