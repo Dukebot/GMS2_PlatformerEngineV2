@@ -7,4 +7,5 @@ if (jumps > 0) {
 	state = states.JUMP;
 	speedY = jumpSpeed;
 	jumps--;
+	jumpDust();
 }

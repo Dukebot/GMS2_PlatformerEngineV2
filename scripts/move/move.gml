@@ -17,7 +17,7 @@ speedY -= speedDecimalY;
 //horizontal collision:
 
 //Determine which side to test
-var side = getFacingSideX(speedX); 
+var side = getFacingSideX(speedX);
 
 //check top and bottom of side
 var t1 = tilemap_get_at_pixel(global.map, side + speedX, bbox_top);

@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "292a4f04-9a2e-4e41-bb83-997b686dbfcb",
+            "Value": {
+                "id": "91e8d4cf-1419-474d-b347-422e80d0db79",
+                "resourcePath": "sprites\\sPlayerLandDust\\sPlayerLandDust.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2ef5355d-7f35-4af3-bb09-05afc57d680a",
             "Value": {
                 "id": "7efea72e-ac83-4771-9c02-ef657bcf2855",
@@ -100,6 +108,14 @@
                 "id": "cb0b5aa2-e960-4d35-9020-352066cbdcc3",
                 "resourcePath": "views\\3821e4fa-ffc5-43c8-ab6c-1aa8a0c4041b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3a2e6ef1-bbd8-4886-97c6-56ce36c5dd03",
+            "Value": {
+                "id": "74d56816-ce8d-4d62-b072-41b48a638f9f",
+                "resourcePath": "objects\\oPlayerDustLand\\oPlayerDustLand.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -164,6 +180,14 @@
                 "id": "fb3256e7-e27a-4fa5-ad74-d43a026b34cf",
                 "resourcePath": "views\\5e1e5248-3f8d-41e8-a39e-7a30dd6c5b86.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6a282b31-3a5f-425a-905d-5e3d3b8a8599",
+            "Value": {
+                "id": "b2614925-7349-42a4-8410-a0aa0aff8584",
+                "resourcePath": "sprites\\sPlayerJumpDust\\sPlayerJumpDust.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -315,6 +339,14 @@
             "Value": {
                 "id": "39c8805c-629f-4f2f-a3b2-7abd05c39b71",
                 "resourcePath": "scripts\\playerCrouchState\\playerCrouchState.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a7988a77-2921-4e69-b635-5db6cbda079c",
+            "Value": {
+                "id": "4474213e-1c3d-4253-8057-d312fc76183a",
+                "resourcePath": "scripts\\jumpDust\\jumpDust.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -503,6 +535,14 @@
             }
         },
         {
+            "Key": "f283bc9c-40ca-4785-9fff-546edc4be65e",
+            "Value": {
+                "id": "96dcedea-71c7-4765-8814-f726cc44d5c6",
+                "resourcePath": "objects\\oPlayerDustJump\\oPlayerDustJump.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "36d21b22-0a5c-4659-a434-9578851ff6c6",
@@ -550,6 +590,7 @@
         "d85ae6e7-51ff-41e6-a6fe-77f2bb665e9a",
         "13487eb7-298b-43d8-b611-4d3da2bca32e",
         "7643e294-b7c3-40fd-9061-f5601c43ab10",
+        "a7988a77-2921-4e69-b635-5db6cbda079c",
         "bf7d72ff-8dbe-456d-98fe-a48d6a1814d7",
         "f5910a02-9040-477b-b378-7fe893b278d0",
         "44b563ce-21bf-4707-8877-4ccafe90cf87",
