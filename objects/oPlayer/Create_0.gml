@@ -55,4 +55,13 @@ spritesArray[states.BLOCK] = sPlayerBlock;
 spritesArray[states.CROUCH] = sPlayerCrouch; 
 spritesArray[states.CROUCH_BLOCK] = sPlayerCrouchBlock;
 
+//create mask array
+maskArray[states.IDLE] = sPlayerIdle;
+maskArray[states.WALK] = sPlayerIdle;
+maskArray[states.JUMP] = sPlayerIdle;
+maskArray[states.ATTACK] = sPlayerIdle;
+maskArray[states.BLOCK] = sPlayerIdle;
+maskArray[states.CROUCH] = sPlayerCrouch; 
+maskArray[states.CROUCH_BLOCK] = sPlayerCrouch;
+
 state = states.IDLE;

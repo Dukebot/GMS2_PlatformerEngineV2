@@ -1,5 +1,6 @@
 //4. Apply Animations
 sprite_index = spritesArray[state];
+mask_index = maskArray[state];
 image_xscale = facing;
 
 if (state == states.JUMP) {

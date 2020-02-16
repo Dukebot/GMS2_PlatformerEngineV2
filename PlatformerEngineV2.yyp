@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "72e6e6e1-1b5b-49e9-84a4-be29bba20f08",
+            "Value": {
+                "id": "5de70838-2209-4390-9f38-6af82df1a3db",
+                "resourcePath": "scripts\\drawBoundingBox\\drawBoundingBox.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "7f32271b-d9be-46e7-bbde-a0132464399d",
@@ -535,6 +543,14 @@
             }
         },
         {
+            "Key": "ef0368ec-129d-4032-83b1-97f634f33ba1",
+            "Value": {
+                "id": "95070cc6-4817-41ed-9945-c1c7d25b1668",
+                "resourcePath": "views\\ef0368ec-129d-4032-83b1-97f634f33ba1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ef4edf30-6bbe-4f53-b8ff-b134c8f83578",
             "Value": {
                 "id": "ba3fe87c-01f1-4524-ad25-6e2d74dd1e22",
@@ -575,14 +591,6 @@
             }
         },
         {
-            "Key": "f918e9a9-b39b-4360-9e7e-9e9b5f38bb68",
-            "Value": {
-                "id": "dff439a3-d14d-4d54-bcde-1097b499dc72",
-                "resourcePath": "scripts\\script12\\script12.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "fb03f76d-ad3e-4c70-90e2-7f6bcd53ea69",
             "Value": {
                 "id": "97b304e7-3fa6-4de1-ab24-28184e69dc25",
@@ -607,13 +615,13 @@
         "98147306-02ec-4813-8789-b0d3a1a515be",
         "a77b1c16-5adb-4160-84ae-7836c257bff2",
         "bc4f8b54-6ee2-4b7b-91e5-2e0ab217cb16",
-        "f918e9a9-b39b-4360-9e7e-9e9b5f38bb68",
         "ccd2bbf8-8b53-4875-843f-aefe16efce99",
         "7aed7225-b87f-41b1-b823-c045bd53d4ff",
         "d3562581-a43b-4e16-ae2d-4cf50ee412e6",
         "8e8037c9-731d-4d2b-803c-af8d7af7e791",
         "ba521b31-d8d0-49ac-88bd-92105e0e81b0",
-        "d80693e8-9706-4dc3-81c5-0d6601102b9d"
+        "d80693e8-9706-4dc3-81c5-0d6601102b9d",
+        "72e6e6e1-1b5b-49e9-84a4-be29bba20f08"
     ],
     "tutorial": ""
 }
