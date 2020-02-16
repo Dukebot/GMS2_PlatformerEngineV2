@@ -20,10 +20,12 @@ if (jump) {
 }
 
 //Check for block state
-if (block) {
+/*if (block) {
 	state = states.BLOCK;
 	speedX = 0;
-}
+}*/
+
+blockStateCheck();
 
 //Check for collisions and apply movement
 move();

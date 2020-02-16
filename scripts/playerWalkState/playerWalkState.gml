@@ -25,10 +25,16 @@ if (jump) {
 	jumped();
 }
 
-if (block) {
+/*if (block) {
 	state = states.BLOCK;
 	speedX = 0;
 }
+
+if (down) {
+	state = states.CROUCH;
+	speedX = 0;
+}*/
+blockStateCheck();
 
 move();
 animate();

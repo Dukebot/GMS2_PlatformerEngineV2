@@ -1,4 +1,4 @@
-//playerCrouchBlockState
+//playerCrouchState
 
 //gets the input to control the player
 getInput();
@@ -9,7 +9,7 @@ calculateMovement();
 //Check for moving state
 if (speedX != 0) state = states.WALK;
 
-//Check for block state or crouch state
+//Check for block state
 blockStateCheck();
 
 //Check for attack state

@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "88de8ee0-717b-466b-93cd-890f50dd4170",
+            "Value": {
+                "id": "8165346b-9ab3-4701-b0d4-a70b7a5a8051",
+                "resourcePath": "scripts\\blockStateCheck\\blockStateCheck.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8e8037c9-731d-4d2b-803c-af8d7af7e791",
             "Value": {
                 "id": "44a21266-352d-424e-869e-05475affa33c",
@@ -591,6 +599,7 @@
         "13487eb7-298b-43d8-b611-4d3da2bca32e",
         "7643e294-b7c3-40fd-9061-f5601c43ab10",
         "a7988a77-2921-4e69-b635-5db6cbda079c",
+        "88de8ee0-717b-466b-93cd-890f50dd4170",
         "bf7d72ff-8dbe-456d-98fe-a48d6a1814d7",
         "f5910a02-9040-477b-b378-7fe893b278d0",
         "44b563ce-21bf-4707-8877-4ccafe90cf87",

@@ -1,6 +1,8 @@
 getInput();
 calculateMovement();
 
+blockStateCheck();
+
 //check state
 if (attack) {
 	show_debug_message("attack pressed");
@@ -8,22 +10,9 @@ if (attack) {
 	image_index = 0;
 }
 
-if (block) {
-	speedX = 0;
-} else {
-	if (speedX != 0) {
-		if (not onGround()) state = states.JUMP;
-		else state = states.WALK;
-	} else {
-		state = states.IDLE;	
-	}
-}
-
 if (jump) {
 	jumped();
 }
-
-
 
 move();
 animate();
