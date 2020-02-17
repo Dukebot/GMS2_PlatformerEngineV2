@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "bd23917f-db06-4291-aa44-c60746c5e717",
+            "Value": {
+                "id": "f9b83b9b-274d-4395-8f39-38df5251ae8e",
+                "resourcePath": "sprites\\sTileCastle\\sTileCastle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bf7d72ff-8dbe-456d-98fe-a48d6a1814d7",
             "Value": {
                 "id": "f8828715-a350-4efb-9f57-c20c55515d72",
@@ -532,6 +540,14 @@
                 "id": "d665503b-3bea-423a-8ae6-3a510b7e38cd",
                 "resourcePath": "scripts\\calculateMovement\\calculateMovement.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e1648f84-dfe5-430e-ace8-10f4420aa81e",
+            "Value": {
+                "id": "7aa6d805-1a9d-430b-8a73-9a85213347d1",
+                "resourcePath": "tilesets\\tTileCastle\\tTileCastle.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
